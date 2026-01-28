@@ -9,6 +9,7 @@ const Home = () => {
     bio: "",
     linkedin: "",
     instagram: "",
+    facebook:"",
     website: "",
   });
 
